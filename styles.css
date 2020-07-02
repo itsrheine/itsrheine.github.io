@@ -3,7 +3,6 @@
 body {
   color: #555;
   margin: 0;
-
   font-family: 'Montserrat', sans-serif;
 }
 #header {
@@ -97,6 +96,6 @@ p {
 .about {
   text-align: center;
 }
-.post-container: nth-child(even) {
+.post-container:nth-child(even) {
   background-color: #f2f2f2;
 }
